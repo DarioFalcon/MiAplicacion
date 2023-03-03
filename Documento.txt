@@ -1,1 +1,2 @@
 Hola. primera linea de documento
+hola esta es mi segunda nota en documento
